@@ -49,3 +49,5 @@ Prise has park kind arch benefit.
 Prise has park kind arch marry.
 
 Prise has park kind arch land.
+
+Prise has major.
